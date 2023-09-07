@@ -1,0 +1,22 @@
+<ol>
+  <li>Reliance Industries Limited</li>
+  <li>Tata Consultancy Services (TCS)</li>
+  <li>Infosys</li>
+  <li>Housing Development Finance Corporation (HDFC)</li>
+  <li>ICICI Bank</li>
+  <li>HDFC Bank</li>
+  <li>Kotak Mahindra Bank</li>
+  <li>State Bank of India (SBI)</li>
+  <li>Larsen & Toubro (L&T)</li>
+  <li>Bharti Airtel</li>
+  <li>Hindustan Unilever Limited (HUL)</li>
+  <li>Maruti Suzuki India Limited</li>
+  <li>ITC Limited</li>
+  <li>Axis Bank</li>
+  <li>Bajaj Finance</li>
+  <li>Tata Motors</li>
+  <li>Mahindra & Mahindra (M&M)</li>
+  <li>Asian Paints</li>
+  <li>Wipro</li>
+  <li>Sun Pharmaceutical Industries Limited</li>
+</ol>
