@@ -1,22 +1,27 @@
 <ol>
-  <li>Reliance Industries Limited</li>
-  <li>Tata Consultancy Services (TCS)</li>
-  <li>Infosys</li>
-  <li>Housing Development Finance Corporation (HDFC)</li>
-  <li>ICICI Bank</li>
-  <li>HDFC Bank</li>
-  <li>Kotak Mahindra Bank</li>
-  <li>State Bank of India (SBI)</li>
-  <li>Larsen & Toubro (L&T)</li>
-  <li>Bharti Airtel</li>
-  <li>Hindustan Unilever Limited (HUL)</li>
-  <li>Maruti Suzuki India Limited</li>
-  <li>ITC Limited</li>
-  <li>Axis Bank</li>
-  <li>Bajaj Finance</li>
-  <li>Tata Motors</li>
-  <li>Mahindra & Mahindra (M&M)</li>
-  <li>Asian Paints</li>
-  <li>Wipro</li>
-  <li>Sun Pharmaceutical Industries Limited</li>
+    <li>Grindwell Norton Limited</li>
+    <li>Laurus Labs Limited</li>
+    <li>Cummins India Limited</li>
+    <li>Titan Company Limited</li>
+    <li>Tatva Chintan Pharma Chem Ltd</li>
+    <li>Berger Paints (i) Limited</li>
+    <li>Suven Pharmaceuticals Ltd</li>
+    <li>United Spirits Limited</li>
+    <li>Britannia Industries Limited</li>
+    <li>Divi's Laboratories Limited</li>
+    <li>Balkrishna Industries Limited</li>
+    <li>Global Health Ltd</li>
+    <li>Just Dial Limited</li>
+    <li>Avenue Supermarts</li>
+    <li>Life Insurance Corporation of India</li>
+    <li>Narayana Hrudayalaya Ltd.</li>
+    <li>Aurobindo Pharma Limited</li>
+    <li>Vedanta Limited</li>
+    <li>La Opala Rg Limited</li>
+    <li>TATA Consumer Products Ltd</li>
+    <li>Lupin Limited</li>
+    <li>Itc Limited</li>
+    <li>Aegis Logistics Limited</li>
+    <li>Ultratech Cement Limited</li>
+    <li>CMS Info Systems Ltd</li>
 </ol>
