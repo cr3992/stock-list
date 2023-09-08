@@ -1,22 +1,26 @@
 <ol>
-  <li>Reliance Industries Limited</li>
-  <li>Tata Consultancy Services (TCS)</li>
-  <li>Infosys</li>
-  <li>Housing Development Finance Corporation (HDFC)</li>
-  <li>ICICI Bank</li>
-  <li>HDFC Bank</li>
-  <li>Kotak Mahindra Bank</li>
-  <li>State Bank of India (SBI)</li>
-  <li>Larsen & Toubro (L&T)</li>
-  <li>Bharti Airtel</li>
-  <li>Hindustan Unilever Limited (HUL)</li>
-  <li>Maruti Suzuki India Limited</li>
-  <li>ITC Limited</li>
-  <li>Axis Bank</li>
-  <li>Bajaj Finance</li>
-  <li>Tata Motors</li>
-  <li>Mahindra & Mahindra (M&M)</li>
-  <li>Asian Paints</li>
-  <li>Wipro</li>
-  <li>Sun Pharmaceutical Industries Limited</li>
+    <li>Moschip Technologies Ltd</li>
+    <li>Paramount Communications Ltd</li>
+    <li>Filatex India Ltd</li>
+    <li>DCW Ltd</li>
+    <li>Oriental Hotels Ltd</li>
+    <li>ISMT Ltd</li>
+    <li>Bhansali Engg Polymers Ltd</li>
+    <li>Alembic Ltd</li>
+    <li>Welspun Specialty Solutions Ltd</li>
+    <li>Dwarikesh Sugar Industries Ltd</li>
+    <li>Suzlon Energy Ltd</li>
+    <li>Trident Ltd</li>
+    <li>Rail Vikas Nigam Ltd</li>
+    <li>HFCL Ltd</li>
+    <li>Jaiprakash Power Ventures Ltd</li>
+    <li>Sindhu Trade Links Ltd</li>
+    <li>Electrosteel Castings Ltd</li>
+    <li>Patel Engineering Ltd</li>
+    <li>Shree Global Tradefin Ltd</li>
+    <li>Jayaswal Neco Industries Ltd</li>
+    <li>Bajaj Hindusthan Sugar Ltd</li>
+    <li>Brightcom Group Ltd</li>
+    <li>PTC India Financial Services Ltd</li>
+    <li>Apollo Micro Systems Ltd</li>
 </ol>
