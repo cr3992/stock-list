@@ -1,22 +1,23 @@
 <ol>
-  <li>Reliance Industries Limited</li>
-  <li>Tata Consultancy Services (TCS)</li>
-  <li>Infosys</li>
-  <li>Housing Development Finance Corporation (HDFC)</li>
-  <li>ICICI Bank</li>
-  <li>HDFC Bank</li>
-  <li>Kotak Mahindra Bank</li>
-  <li>State Bank of India (SBI)</li>
-  <li>Larsen & Toubro (L&T)</li>
-  <li>Bharti Airtel</li>
-  <li>Hindustan Unilever Limited (HUL)</li>
-  <li>Maruti Suzuki India Limited</li>
-  <li>ITC Limited</li>
-  <li>Axis Bank</li>
-  <li>Bajaj Finance</li>
-  <li>Tata Motors</li>
-  <li>Mahindra & Mahindra (M&M)</li>
-  <li>Asian Paints</li>
-  <li>Wipro</li>
-  <li>Sun Pharmaceutical Industries Limited</li>
+    <li>Hindustan Zinc Ltd</li>
+    <li>Vedanta Ltd</li>
+    <li>GAIL (India) Ltd</li>
+    <li>HCL Technologies Ltd</li>
+    <li>Tech Mahindra Ltd</li>
+    <li>ITC Ltd</li>
+    <li>Bajaj Auto Ltd</li>
+    <li>Coal India Ltd</li>
+    <li>Power Finance Corporation Ltd</li>
+    <li>NTPC Ltd</li>
+    <li>REC Ltd</li>
+    <li>Hinduja Global Solutions Ltd</li>
+    <li>NMDC Ltd</li>
+    <li>Embassy Office Parks REIT Ltd</li>
+    <li>IndiGrid InvIT Fund Ltd</li>
+    <li>Banco Products (India) Ltd</li>
+    <li>Renaissance Global Ltd</li>
+    <li>Steel Authority of India Ltd</li>
+    <li>Styrenix Performance Materials Ltd</li>
+    <li>Geojit Financial Services Ltd</li>
+    <li>Indian Metals & Ferro Alloys Ltd</li>
 </ol>
