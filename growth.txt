@@ -1,22 +1,37 @@
 <ol>
-  <li>Reliance Industries Limited</li>
-  <li>Tata Consultancy Services (TCS)</li>
-  <li>Infosys</li>
-  <li>Housing Development Finance Corporation (HDFC)</li>
-  <li>ICICI Bank</li>
-  <li>HDFC Bank</li>
-  <li>Kotak Mahindra Bank</li>
-  <li>State Bank of India (SBI)</li>
-  <li>Larsen & Toubro (L&T)</li>
-  <li>Bharti Airtel</li>
-  <li>Hindustan Unilever Limited (HUL)</li>
-  <li>Maruti Suzuki India Limited</li>
-  <li>ITC Limited</li>
-  <li>Axis Bank</li>
-  <li>Bajaj Finance</li>
-  <li>Tata Motors</li>
-  <li>Mahindra & Mahindra (M&M)</li>
-  <li>Asian Paints</li>
-  <li>Wipro</li>
-  <li>Sun Pharmaceutical Industries Limited</li>
+  <li>Bharat Electronics Ltd</li>
+  <li>Persistent Systems Ltd</li>
+  <li>BLS International Services Ltd</li>
+  <li>Zen Technologies Limited</li>
+  <li>Newgen Software Technologies Ltd</li>
+  <li>R Systems International Ltd</li>
+  <li>Magellanic Cloud Ltd</li>
+  <li>Saksoft Ltd</li>
+  <li>Shilchar Technologies Ltd</li>
+  <li>Neuland Laboratories Ltd</li>
+  <li>Tube Investments of India Ltd</li>
+  <li>Gokaldas Exports Ltd</li>
+  <li>Pricol Ltd</li>
+  <li>Shanthi Gears Ltd</li>
+  <li>KDDL Ltd</li>
+  <li>Pearl Global Industries Ltd</li>
+  <li>Tips Industries Ltd</li>
+  <li>Triveni Engineering and Industries Ltd</li>
+  <li>Tilaknagar Industries Ltd</li>
+  <li>Uttam Sugar Mills Limited</li>
+  <li>SKM Egg Products Export India Ltd</li>
+  <li>Authum Investment & Infrastructure Ltd</li>
+  <li>CG Power and Industrial Solutions Ltd</li>
+  <li>KEI Industries Limited</li>
+  <li>Ratnamani Metals and Tubes Ltd</li>
+  <li>Ramkrishna Forgings Ltd</li>
+  <li>Ingersoll-Rand (India) Ltd</li>
+  <li>Elecon Engineering Company Ltd</li>
+  <li>Action Construction Equipment Ltd</li>
+  <li>ESAB India Ltd</li>
+  <li>TD Power Systems Ltd</li>
+  <li>Usha Martin Ltd</li>
+  <li>Sarda Energy & Minerals Ltd</li>
+  <li>Tanfac Industries Ltd</li>
+  <li>Gravita India Limited</li>
 </ol>
