@@ -4,4 +4,18 @@
     <li>SBI ETF Sensex</li>
     <li>Edelweiss ETF - NQ30</li>
     <li>UTI Sensex ETF</li>
+    <li>Nippon India ETF Gold BeES</li>
+    <li>ICICI Prudential Gold ETF</li>
+    <li>Kotak Gold ETF</li>
+    <li>Aditya BSL Gold ETF</li>
+    <li>UTI Gold Exchange Traded Fund</li>
+    <li>Axis Gold ETF</li>
+    <li>Quantum Gold Fund</li>
+    <li>HDFC Gold Exchange Traded Fund</li>
+    <li>HDFC Silver ETF</li>
+    <li>ICICI Prudential Silver ETF</li>
+    <li>DSP Silver ETF</li>
+    <li>Bharat 22 ETF</li>
 </ol>
+
+
