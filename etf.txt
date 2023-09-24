@@ -1,5 +1,4 @@
 <ol>
-    <li>Hello</li>
     <li>Motilal Oswal NASDAQ 100 ETF</li>
     <li>HDFC Sensex ETF</li>
     <li>SBI ETF Sensex</li>
